@@ -1,0 +1,1 @@
+This public GitHub repository contains the initial commit and README file for my final project submitted as part of the Coursera course. It serves as the foundation for further development and version control demonstration.
