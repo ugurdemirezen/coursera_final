@@ -10,4 +10,4 @@ Click the "Fork" button at the top-right of the page to create a personal copy.
 
 ### 2. Clone the Fork
 ```bash
-git clone https://github.com/YOUR-USERNAME/coursera_final_project.git
+git clone https://github.com/ugurdemirezen/coursera_final/edit/main/CONTRIBUTING.md
